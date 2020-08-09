@@ -70,14 +70,5 @@ namespace Algorithms.Test
             Assert.AreEqual(expected, actual);
         }
         
-        [Test]
-        public void GetComponentCount_Return_1_WhenOneComponentExists()
-        {
-            var array = new int[10] {1, 1, 1, 1, 1, 1, 1, 1, 1, 1};
-            var connector = new QFDynamicConnector(array);
-            var actual = connector.GetComponentCount();
-            var expected = 1;
-            Assert.AreEqual(expected, actual);
-        }
     }
 }

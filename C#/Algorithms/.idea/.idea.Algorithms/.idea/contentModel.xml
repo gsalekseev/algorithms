@@ -25,6 +25,7 @@
           </e>
         </e>
         <e p="QFDynamicConnector.cs" t="Include" />
+        <e p="QUDynamicConnector.cs" t="Include" />
       </e>
       <e p="Algorithms.Main" t="IncludeRecursive">
         <e p="Algorithms.Main.csproj" t="IncludeRecursive" />
@@ -50,6 +51,7 @@
           </e>
         </e>
         <e p="QFDynamicConnector.Tests.cs" t="Include" />
+        <e p="QUDynamicConnector.Tests.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
