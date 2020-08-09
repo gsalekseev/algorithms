@@ -1,0 +1,9 @@
+C:\Users\juniper\Documents\learn\cousera\algorithms\C#\Algorithms\Algorithms.Core\bin\Debug\netcoreapp3.1\Algorithms.Core.deps.json
+C:\Users\juniper\Documents\learn\cousera\algorithms\C#\Algorithms\Algorithms.Core\bin\Debug\netcoreapp3.1\Algorithms.Core.dll
+C:\Users\juniper\Documents\learn\cousera\algorithms\C#\Algorithms\Algorithms.Core\bin\Debug\netcoreapp3.1\Algorithms.Core.pdb
+C:\Users\juniper\Documents\learn\cousera\algorithms\C#\Algorithms\Algorithms.Core\obj\Debug\netcoreapp3.1\Algorithms.Core.csprojAssemblyReference.cache
+C:\Users\juniper\Documents\learn\cousera\algorithms\C#\Algorithms\Algorithms.Core\obj\Debug\netcoreapp3.1\Algorithms.Core.csproj.CoreCompileInputs.cache
+C:\Users\juniper\Documents\learn\cousera\algorithms\C#\Algorithms\Algorithms.Core\obj\Debug\netcoreapp3.1\Algorithms.Core.AssemblyInfoInputs.cache
+C:\Users\juniper\Documents\learn\cousera\algorithms\C#\Algorithms\Algorithms.Core\obj\Debug\netcoreapp3.1\Algorithms.Core.AssemblyInfo.cs
+C:\Users\juniper\Documents\learn\cousera\algorithms\C#\Algorithms\Algorithms.Core\obj\Debug\netcoreapp3.1\Algorithms.Core.dll
+C:\Users\juniper\Documents\learn\cousera\algorithms\C#\Algorithms\Algorithms.Core\obj\Debug\netcoreapp3.1\Algorithms.Core.pdb
