@@ -45,10 +45,10 @@ namespace Algorithms.Test
         }
         
         [Test]
-        public void Union_ConnectTwoComponents_WithWeight()
+        public void Union_ConnectTwoComponents_WithWeightAndCompression()
         {
             _connector.Union(9, 6);
-            Assert.AreEqual(new int[] {0, 1, 9, 4, 9, 6, 9, 7, 8, 9}, _connector.Points);
+            Assert.AreEqual(new int[] {0, 1, 9, 9, 9, 6, 9, 7, 8, 9}, _connector.Points);
         }
         
         [Test]

@@ -110,9 +110,12 @@ namespace Algorithms.Core
 
         private int FindRoot(int element)
         {
-            if (Points[element] == element)
-                return element;
-            return FindRoot(Points[element]);
+            while (element != Points[element])
+            {
+                Points[element] = Points[Points[element]]; //compression
+                element = Points[element];
+            }
+            return element;
         }
     }
 }
